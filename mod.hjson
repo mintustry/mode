@@ -1,0 +1,6 @@
+name: "Terrain Blocks"
+displayName: "Terrain" //what displays in the mod selection menu
+author: "Mintustry child"
+description: "terrain tile"
+version: "1"
+minGameVersion: "120"
