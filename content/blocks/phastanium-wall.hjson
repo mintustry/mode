@@ -6,7 +6,7 @@ size: 2
 absorbLasers: true
 requirements: [
   plastanium/4
-  phase/4
+  phase-fabric/4
   metaglass/2
 ]
 category: defense
