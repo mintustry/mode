@@ -1,0 +1,16 @@
+name: Phastanium wall
+description: A large version of a fusion wall
+type: Wall
+health: 2600
+size: 2
+insulated: true
+absorbLasers: true
+chanceDeflect: 8.5
+flashHit: true
+requirements: [
+  plastanium/16
+  phase-fabric/16
+  metaglass/8
+]
+category: defense
+research: phastanium-wall
