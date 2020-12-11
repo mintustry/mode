@@ -1,0 +1,13 @@
+name: Phastanium wall
+description: A wall which contains plastanium and phase all together
+type: Wall
+health: 600
+size: 2
+absorbLasers: true
+requirements: [
+  plastanium/4
+  phase/4
+  metaglass/2
+]
+category: defense
+research: plastanium-wall
