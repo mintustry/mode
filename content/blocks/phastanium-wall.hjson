@@ -1,7 +1,7 @@
 name: Phastanium wall
 description: A wall which contains plastanium and phase all together
 type: Wall
-health: 600
+health: 160 * wallHealthMultiplier
 size: 1
 insulated: true
 absorbLasers: true
