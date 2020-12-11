@@ -3,7 +3,10 @@ description: A wall which contains plastanium and phase all together
 type: Wall
 health: 600
 size: 1
+insulated: true
 absorbLasers: true
+chanceDeflect: 8.5
+flashHit: true
 requirements: [
   plastanium/4
   phase-fabric/4
