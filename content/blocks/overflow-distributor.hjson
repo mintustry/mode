@@ -1,5 +1,6 @@
 name: Overflow distributor
 description: a big version of a overflow gate
+type: OverflowGate
 health: 80
 size: 2
 speed: 1
