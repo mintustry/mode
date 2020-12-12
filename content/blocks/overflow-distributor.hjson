@@ -1,0 +1,13 @@
+name: Overflow distributor
+description: a big version of a overflow gate
+type: overflowgate
+health: 80
+size: 2
+speed: 1
+invert: false
+requirements: [
+  copper/8
+  lead/4
+]
+category: distribution
+research: overflow-gate
