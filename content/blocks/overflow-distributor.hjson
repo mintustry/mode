@@ -8,7 +8,6 @@ invert: false
 hasItems: true
 solid: true
 update: true
-group: BlockGroup.transportation
 instantTransfer: true
 unloadable: false
 canOverdrive: false
