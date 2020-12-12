@@ -2,7 +2,7 @@ name: Overflow distributor
 description: a big version of a overflow gate
 type: OverflowGate
 health: 80
-size: 2
+size: 1
 speed: 1
 invert: false
 hasItems: true
