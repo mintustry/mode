@@ -1,5 +1,5 @@
 name: Parallel
-description: Parallel
+description: The bigger brother of Parallax
 type: TractorBeamTurret
 health: 680
 hasPower: true
@@ -12,9 +12,10 @@ rotateSpeed: 15
 shootSound: tractorbeam
 shootSoundVolume: 0.9
 requirements: [
-  plastanium/4
-  phase-fabric/4
-  metaglass/2
+  silicon/145
+  plastanium/25
+  grahpite/50
+  titanium/95
 ]
 category: turret
 research: parallax
