@@ -14,7 +14,7 @@ shootSoundVolume: 0.9
 requirements: [
   silicon/145
   plastanium/25
-  grahpite/50
+  grapite/50
   titanium/95
 ]
 category: turret
