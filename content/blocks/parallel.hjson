@@ -1,0 +1,18 @@
+name: Parallel
+description: Parallel
+type: TractorBeamTurret
+health: 680
+hasPower: true
+size: 2
+force: 8
+scaledForce: 7
+range: 230
+damage: 0.3
+rotateSpeed: 10
+requirements: [
+  plastanium/4
+  phase-fabric/4
+  metaglass/2
+]
+category: turret
+research: parallax
