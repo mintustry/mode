@@ -6,6 +6,8 @@ hasPower: true
 size: 2
 timerTarget: 1
 retargetTime: 5
+baseRegion: parallel-baseRegion
+laserEnd: parallel-laserEnd
 shootCone: 6
 laserWidth: 0.6
 force: 8.5
