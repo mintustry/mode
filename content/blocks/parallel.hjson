@@ -4,6 +4,10 @@ type: TractorBeamTurret
 health: 680
 hasPower: true
 size: 2
+timerTarget: 1
+retargetTime: 5
+shootCone: 6
+laserWidth: 0.6
 force: 8.5
 scaledForce: 7.5
 range: 290
