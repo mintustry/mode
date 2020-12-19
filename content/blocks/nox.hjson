@@ -7,7 +7,7 @@ size: 3
 timerTarget: 1
 retargetTime: 5
 shootCone: 6
-laserWidth: 0.8
+laserWidth: 0.3
 force: 10.5
 scaledForce: 8.25
 range: 380
