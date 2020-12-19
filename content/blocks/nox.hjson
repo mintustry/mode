@@ -2,7 +2,6 @@ name: Nox
 description: The grand Parallax
 type: TractorBeamTurret
 health: 1250
-hasPower: true
 size: 3
 timerTarget: 1
 retargetTime: 5
