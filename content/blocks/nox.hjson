@@ -3,7 +3,6 @@ description: The grand Parallax
 type: TractorBeamTurret
 health: 1250
 hasPower: true
-powerUse: 520
 size: 3
 timerTarget: 1
 retargetTime: 5
@@ -16,6 +15,7 @@ damage: 1.1
 rotateSpeed: 7.5
 shootSound: tractorbeam
 shootSoundVolume: 0.9
+powerUse: 520
 requirements: [
   silicon/245
   plastanium/45
