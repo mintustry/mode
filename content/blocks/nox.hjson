@@ -3,6 +3,7 @@ description: nox
 type: TractorBeamTurret
 health: 1250
 hasPower: true
+powerUse: 520
 size: 3
 timerTarget: 1
 retargetTime: 5
