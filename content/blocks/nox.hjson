@@ -3,6 +3,7 @@ description: The grand Parallax
 type: TractorBeamTurret
 health: 1250
 size: 3
+hasPower: true
 powerUse: 4
 timerTarget: 1
 retargetTime: 5
