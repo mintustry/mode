@@ -3,6 +3,7 @@ description: The bigger brother of Parallax
 type: TractorBeamTurret
 health: 680
 hasPower: true
+powerUse: 260
 size: 2
 timerTarget: 1
 retargetTime: 5
