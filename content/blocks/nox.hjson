@@ -1,5 +1,5 @@
 name: Nox
-description: nox
+description: The grand Parallax
 type: TractorBeamTurret
 health: 1250
 hasPower: true
@@ -17,10 +17,12 @@ rotateSpeed: 7.5
 shootSound: tractorbeam
 shootSoundVolume: 0.9
 requirements: [
-  silicon/145
-  plastanium/25
-  graphite/50
-  titanium/95
+  silicon/245
+  plastanium/45
+  graphite/125
+  titanium/175
+  thorium/45
+  metaglass/100
 ]
 category: turret
 research: parallel
