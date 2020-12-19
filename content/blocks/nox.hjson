@@ -1,0 +1,25 @@
+name: Nox
+description: nox
+type: TractorBeamTurret
+health: 1250
+hasPower: true
+size: 3
+timerTarget: 1
+retargetTime: 5
+shootCone: 6
+laserWidth: 0.8
+force: 10.5
+scaledForce: 8.25
+range: 380
+damage: 1.1
+rotateSpeed: 7.5
+shootSound: tractorbeam
+shootSoundVolume: 0.9
+requirements: [
+  silicon/145
+  plastanium/25
+  graphite/50
+  titanium/95
+]
+category: turret
+research: parallel
