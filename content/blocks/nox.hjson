@@ -17,7 +17,8 @@ rotateSpeed: 7.5
 shootSound: tractorbeam
 shootSoundVolume: 0.9
 consumes: [
-powerUse: 3
+ power:{
+    usage: 12.6
 ]
 requirements: [
   silicon/245
