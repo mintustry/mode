@@ -20,7 +20,6 @@ consumes:{
  power:{
     usage: 12.6
 }
-}
 requirements: [
   silicon/245
   plastanium/45
