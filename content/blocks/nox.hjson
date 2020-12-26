@@ -16,6 +16,9 @@ damage: 1.1
 rotateSpeed: 7.5
 shootSound: tractorbeam
 shootSoundVolume: 0.9
+consumes: [
+powerCond(3, (TractorBeamBuild e) -> e.target = null)
+]
 requirements: [
   silicon/245
   plastanium/45
