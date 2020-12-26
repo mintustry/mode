@@ -19,7 +19,7 @@ shootSoundVolume: 0.9
 consumes:{
  power:{
     usage: 12.6
- }
+}
 }
 requirements: [
   silicon/245
